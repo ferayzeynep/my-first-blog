@@ -3,5 +3,4 @@
 __pycache__
 zeynep
 db.sqlite3
-/static
 .DS_Store
